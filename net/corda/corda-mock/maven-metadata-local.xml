@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.corda</groupId>
+  <artifactId>corda-mock</artifactId>
+  <versioning>
+    <release>1.0.1-UBIN</release>
+    <versions>
+      <version>1.0.1-UBIN</version>
+    </versions>
+    <lastUpdated>20171025112304</lastUpdated>
+  </versioning>
+</metadata>
